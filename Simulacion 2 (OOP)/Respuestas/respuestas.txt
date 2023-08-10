@@ -1,0 +1,44 @@
+Simulacion estocastica primitiva
+
+b)
+Los mRNA tienen un promedio de 4.868 y un ruido de 0.41981661707157625.
+Las proteinas tienen un promedio de 958.0286666666667 y un ruido de 0.5039993855108669.
+
+c)
+El tiempo de simulacion para 100 celulas es: 3.0338754653930664 segundos.
+
+d)
+Los mRNA tienen un promedio de 0.6953333333333334 y un ruido de 0.9221933854670316.
+Las proteinas tienen un promedio de 155.79533333333333 y un ruido de 0.749163795789693.
+
+Fundamentos del algoritmo de Gillespie
+
+
+Simulacion estocastica con algoritmo de Gillespie
+
+b)
+Los mRNA tienen un promedio de 5.045 y un ruido de 0.34814860064397074.
+Las proteinas tienen un promedio de 427.275 y un ruido de 0.5604474252322816.
+
+c)
+El tiempo de simulacion para 100 celulas es: 1.1207284927368164 segundos.
+
+Retroalimentacion
+
+a)
+Los mRNA tienen un promedio de 0.985 y un ruido de 0.12340351046845906.
+Las proteinas tienen un promedio de 298.097 y un ruido de 0.47250743762364905.
+
+
+c)
+Los mRNA tienen un promedio de 0.808 y un ruido de 0.8968597526590285.
+Las proteinas tienen un promedio de 156.566 y un ruido de 0.6693120801043739.
+
+d)
+Los mRNA tienen un promedio de 3.525 y un ruido de 0.3233762585866099.
+Las proteinas tienen un promedio de 406.04899999999486 y un ruido de 0.5389999375248433.
+
+Aproximacion por escalas temporales
+
+b)
+Las proteinas tienen un promedio de 1560.442 y un ruido de 0.2596745149644566.
