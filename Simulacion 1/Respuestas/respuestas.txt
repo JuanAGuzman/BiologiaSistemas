@@ -1,0 +1,54 @@
+Simulacion estocastica primitiva
+
+b)
+Las mRNA tienen un promedio de 4.987421333333338 y un ruido de 0.18050271782003965.
+Las proteina tienen un promedio de 1032.3597613333334 y un ruido de 0.5060977358290403.
+
+c)
+El delta de tiempo no tiene un efecto en el cambio de los resultados diferente del costo computacional, esto debido a que la definicion de los s tienen este factor, por lo tanto al dividirlos con s_t este factor se anula.El tiempo de simulacion para 100 celulas es: 4.213745832443237 segundos.
+
+d)
+Las mRNA tienen un promedio de 0.6007766666666627 y un ruido de 0.1223266138843961.
+Las proteina tienen un promedio de 124.39501666666652 y un ruido de 0.15194788429108871.
+
+
+Simulacion estocastica con algoritmo de Gillespie
+
+b)
+Las mRNA tienen un promedio de 5.442676000000049 y un ruido de 0.11184086908040682.
+Las proteina tienen un promedio de 2285.240100399998 y un ruido de 0.42132894417788896.
+
+c)
+El tiempo de simulacion para 100 celulas es: 16.46596121788025 segundos.
+
+Retroalimentacion
+
+a)
+Las mRNA tienen un promedio de 0.596291799999993 y un ruido de 0.0764225942026384.
+Las proteina tienen un promedio de 131.18168900000077 y un ruido de 0.09341972672772199.
+
+b)
+La respuesta es mas notoria cuando hay retroalimentacion, ademas se observa que los grandes
+picos se prensentan tanto en las graficas de r como de p, donde p se ve afectado por los grandes
+cambios de r, asi siguiendo la misma tendencia, pero notamos que hay un retraso para p,
+de modo que es posible identificar el tiempo de respuesta.
+
+c)
+Las mRNA tienen un promedio de 0.5964883999999947 y un ruido de 0.07127219308464451.
+Las proteina tienen un promedio de 130.84562439999965 y un ruido de 0.09449380223909734.
+Tanto el promedio como el ruido resultan similares.
+
+d)
+Las mRNA tienen un promedio de 5.470703399999932 y un ruido de 0.1099050141237338.
+Las proteina tienen un promedio de 2297.1585374000047 y un ruido de 0.4210167753495859.
+
+e)
+De las graficas presentadas para retroalimentacion se observa que en t=5 se encuentra un punto estable
+de las ecuaciones en estado estacionario se obtiene que k_p r = g_p p, esto equivale que en estado estacionario
+900 r = p, lo cual notamos que se cumple. De igual forma observamos que este presenta monoestabilidad baja.
+
+Aproximacion por escalas temporales
+
+b)
+El comportamiento es similar a los vistos en Gillespi y primitivo.
+Las proteina tienen un promedio de 3631.8575381999954 y un ruido de 0.2259025118859238.
